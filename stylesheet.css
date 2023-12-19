@@ -209,3 +209,22 @@ div footer{
     display:flex;
     text-align:center;
 }
+#HistoryY {
+    font-size: 20px;
+    background-color: azure;
+}
+#HistorySnimki:hover {
+    border: 5px solid white;
+}
+#ModeliSpisak:hover {
+    border: 8px solid black;
+}
+#NachalnaSnimka:hover {
+    border: 8px solid white;
+}
+.Info p:hover {
+    border: 8px solid white;
+}
+.Info img:hover {
+    border: 8px solid white;
+}
